@@ -1,0 +1,53 @@
+body
+{
+	background-image: url(P3LMd.jpg);
+	background-size: 110%;
+	box-sizing: border-box;
+}
+h1{color: black; font-family: 'Georgia'; font-size: 43pt}
+h3{color:  black;font-family: 'Gabriola';font-size: 35pt}
+p{color: black;font-family: 'Arial';font-size: 20pt}
+a{text-decoration: none; color: blue}
+
+
+	.menu{
+			border: 5px solid white;
+			float: right;
+			margin:  20pt;
+			padding-right: 17px;
+			background-color: #87CEFA ;
+			border-radius: 45pt;
+	}
+
+	.menuitem {
+		
+		padding: 5pt;
+		border: 1px solid white;
+		margin:  20pt;
+		border-radius: 15pt;
+	color: white ;
+	font-family: Arial;
+	font-size: 20pt;
+	background:   #4682B4
+
+}
+
+.menuitem:hover {
+
+	background: #191970
+		}
+
+.zag{
+	float: right;
+	padding-right: 70pt;
+}
+
+.op{
+	float: center;
+
+}
+
+.log{
+	float: left;
+}
+
